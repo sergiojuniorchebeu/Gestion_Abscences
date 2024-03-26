@@ -1,0 +1,23 @@
+.titre1{
+    color: rgb(5, 60, 243);
+}
+.body1{
+    background-color: #eff3ba;
+}
+.titre2{
+    color: rgb(5, 60, 243);
+}
+.titre3{
+    color: rgb(255, 0, 0);
+}
+.card{
+    margin-left: 60px;
+    margin-top: 25px;
+    border-radius: 9px;
+}
+.body{
+    background-color: #eff3ba;
+}
+.pied{
+    margin-top: 9px;
+}

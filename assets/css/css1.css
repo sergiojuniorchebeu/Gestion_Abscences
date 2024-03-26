@@ -1,0 +1,41 @@
+body{
+    display: grid;
+    place-items: center;
+}
+.box{
+    position: relative;
+    width: 330px;
+    height: 430px;
+    border-radius: 20px;
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+}
+.box span{
+    position: absolute;
+    inset: 5px;
+    border-radius: 16px;
+    background-color: #5df783;
+    z-index: 2;
+}
+input{
+    border-radius: 20px;
+    text-align: center;
+}
+input[type="text"]:valid{
+    outline: 2px solid rgb(8, 241, 0);
+}
+.form-group{
+    width: 270px;
+    margin-left: 28px;
+}
+.btn{
+    margin-top: 15;
+}
+.body1{
+    background-color: #eff3ba;
+    font-family: Comic Sans MS;
+}
+.lienlog{
+    color: #fff;
+}
